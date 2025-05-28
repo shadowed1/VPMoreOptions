@@ -354,8 +354,6 @@ namespace VPMoreOptions
         static void Postfix(TabletManager __instance)
         {
             var mode = GameModeManager.CurrentGamemode;
-
-            // Only add Spawn Menu button for Siege or Arena, not Sandbox (already added by original)
             if (mode == GameModeManager.GameMode.Siege ||
                 mode == GameModeManager.GameMode.Arena)
             {
