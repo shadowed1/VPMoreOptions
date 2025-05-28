@@ -30,7 +30,7 @@ https://nightly.link/LavaGang/MelonLoader/actions/runs/15301935887/MelonLoader.W
 - Download  generic Unity .dll's from another Unity game. I recommend Schedule I: Free Sample on Steam as it is a free demo or download the same files I uploaded to Github:
 https://github.com/shadowed1/VPMoreOptions/releases/tag/001
 
-- Copy mscorlib.dll, System.Core.dll, System.dll from (or use Github link):
+- Copy **mscorlib.dll, System.Core.dll, System.dll** from (or use Github link):
 Steam\steamapps\common\Schedule I Demo\Schedule I Free Sample_Data\Managed\ 
 to:
 Steam\steamapps\common\Voxel Project VR\Voxel Project_Data\Managed\ 
