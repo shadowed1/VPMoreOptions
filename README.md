@@ -8,7 +8,6 @@
 - Reworked enemy AI spawn system and added support for global map spawning with height check.
 - Fire enabled for Siege mode.
 - C4 has a 2.5% chance to cause a small fire. 
-- Enemy AI have slightly reduced melee range.
 
 **How to Install**:
 
