@@ -18,6 +18,7 @@
 **Known Issues:**
 
 - Spawn Menu appears twice in Arena and Siege, but it doesn't harm anything.
+- Player will fall under the map on Highway. 
 
 **How to Install MelonLoader 0.7.1 for Voxel Project VR 1.20.1:**
 
