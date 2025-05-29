@@ -1,6 +1,9 @@
 **VPMoreOptions Mod**
 
-**Features:**
+Made for Voxel Project VR:
+https://store.steampowered.com/app/2858370/Voxel_Project_VR/
+
+**Features for 1.20.1:**
 
 - Spawn menu enabled for Arena and Siege.
 - Versions for 1x, 2x, 4x, 6x, and 8x AI multiplier. High end CPU recommended for 6x and above. 
