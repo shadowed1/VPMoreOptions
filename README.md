@@ -30,6 +30,7 @@ https://nightly.link/LavaGang/MelonLoader/actions/runs/15301935887/MelonLoader.W
 
 - Drag and drop into \Steam\steamapps\common\Voxel Project VR\ ,
 
+__As of 0.22+ copying these .dlls are no longer required!__:
 - Download  generic Unity .dll's from another Unity game. I recommend Schedule I: Free Sample on Steam as it is a free demo or download the same files I uploaded to Github:
 https://github.com/shadowed1/VPMoreOptions/releases/tag/001
 
