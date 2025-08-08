@@ -10,7 +10,9 @@ https://store.steampowered.com/app/2858370/Voxel_Project_VR/
 - Arena and Siege enabled for all maps with hidden maps enabled. 
 - Reworked enemy AI spawn system and added support for global map spawning with height check.
 - Fire enabled for Siege mode.
-- C4 has a 2.5% chance to cause a small fire. 
+- C4 has a 2.5% chance to cause a small fire.
+- Flamethrower gets 4x longer range.
+- Players can respawn within 10s for Multiplayer
 
 **How to Install**:
 
@@ -21,7 +23,7 @@ https://store.steampowered.com/app/2858370/Voxel_Project_VR/
 **Known Issues:**
 
 - Spawn Menu appears twice in Arena and Siege, but it doesn't harm anything.
-- Player will spawn under the map Highway on Siege. 
+- Sandbox mode is broken in Multiplayer, but Siege/Arena already have Sandbox built in. 
 
 **How to Install MelonLoader 0.7.1 for Voxel Project VR 1.20.1:**
 
