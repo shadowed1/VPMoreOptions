@@ -25,14 +25,14 @@ https://store.steampowered.com/app/2858370/Voxel_Project_VR/
 - Spawn Menu appears twice in Arena and Siege, but it doesn't harm anything.
 - Sandbox mode is broken in Multiplayer, but Siege/Arena already have Sandbox built in. 
 
-**How to Install MelonLoader 0.7.1 for Voxel Project VR 1.20.1:**
+**How to Install MelonLoader 0.7.1 for Voxel Project VR 1.2X:**
 
 - Download this nightly build of MelonLoader (subject to change when final release comes):
 https://nightly.link/LavaGang/MelonLoader/actions/runs/15301935887/MelonLoader.Windows.x64.CI.Release
 
 - Drag and drop into \Steam\steamapps\common\Voxel Project VR\ ,
 
-__As of 0.22+ copying these .dlls are no longer required!__:
+__As of 1.22+ copying these .dlls are no longer required!__:
 - Download  generic Unity .dll's from another Unity game. I recommend Schedule I: Free Sample on Steam as it is a free demo or download the same files I uploaded to Github:
 https://github.com/shadowed1/VPMoreOptions/releases/tag/001
 
